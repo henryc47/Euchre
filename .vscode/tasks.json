@@ -5,7 +5,7 @@
     "type": "shell",
     "options": 
     {
-        "cwd":"${workspaceRoot}/build"
+        "cwd":"${workspaceRoot}../build"
     },
     "tasks": [
         {
